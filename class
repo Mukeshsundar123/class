@@ -1,0 +1,7 @@
+// define a class
+class Bicycle {
+
+// define two properties
+var name = ""
+var gears = 0
+}
